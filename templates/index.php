@@ -11,7 +11,7 @@
 <section>
 	<h1><?php echo $product->title; ?></h1>
 	<article><?php echo $ptoduct->desc; ?></article>
-    <p style="color:red;"><?php echo $product->price; ?></p>
+    <p style="color:green;"><?php echo $product->price; ?></p>
 </section>
 
 <hr>
